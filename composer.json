@@ -2,6 +2,7 @@
     "name": "yann-denis/ydo-php",
     "description": "Database abstraction layer.",
     "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "YannDenis\\YDO\\": [
