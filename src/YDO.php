@@ -1,6 +1,6 @@
 <?php
 
-namespace Yann\YDO;
+namespace YannDenis\YDO;
 
 /**
  * @author Yann DENIS <denis.yann@gmail.com>

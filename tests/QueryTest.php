@@ -1,9 +1,9 @@
 <?php
 
-namespace Yann\YDO;
+namespace YannDenis\YDO;
 
 use PHPUnit\Framework\TestCase;
-use Yann\YDO\Exception\Query\EmptyINException;
+use YannDenis\YDO\Exception\Query\EmptyINException;
 
 /**
  * @author Yann DENIS <denis.yann@gmail.com>

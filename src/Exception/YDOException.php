@@ -1,6 +1,6 @@
 <?php
 
-namespace Yann\YDO\Exception;
+namespace YannDenis\YDO\Exception;
 
 /**
  * @author Yann DENIS <denis.yann@gmail.com>

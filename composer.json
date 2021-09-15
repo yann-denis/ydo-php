@@ -1,18 +1,18 @@
 {
-    "name": "yann/ydo-php",
+    "name": "yann-denis/ydo-php",
     "description": "Database abstraction layer.",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Yann\\YDO\\": [
+            "YannDenis\\YDO\\": [
                 "src/",
                 "tests/"
             ]
         }
     },
     "require": {
-        "php": "^7.1",
-        "ext-PDO": "^7.1",
+        "php": "^7.1|^8.0",
+        "ext-PDO": "^7.1|^8.0",
         "phpunit/phpunit": "^8.2"
     },
     "authors": [

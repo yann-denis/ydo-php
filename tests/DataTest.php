@@ -1,6 +1,6 @@
 <?php
 
-namespace Yann\YDO;
+namespace YannDenis\YDO;
 
 use PHPUnit\Framework\TestCase;
 

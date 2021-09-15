@@ -1,6 +1,6 @@
 <?php
 
-namespace Yann\YDO\DataAdapter;
+namespace YannDenis\YDO\DataAdapter;
 
 /**
  * @author Yann DENIS <denis.yann@gmail.com>

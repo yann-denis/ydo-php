@@ -1,8 +1,8 @@
 <?php
 
-namespace Yann\YDO\DataAdapter\Doctrine;
+namespace YannDenis\YDO\DataAdapter\Doctrine;
 
-use Yann\YDO\DataAdapter\DataAdapter;
+use YannDenis\YDO\DataAdapter\DataAdapter;
 
 /**
  * @author Yann DENIS <denis.yann@gmail.com>

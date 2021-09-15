@@ -1,10 +1,10 @@
 <?php
 
-namespace Yann\YDO;
+namespace YannDenis\YDO;
 
-use Yann\YDO\DataAdapter\DataAdapter;
-use Yann\YDO\Exception\Data\UnknowClassException;
-use Yann\YDO\Exception\Data\UnknowTypeException;
+use YannDenis\YDO\DataAdapter\DataAdapter;
+use YannDenis\YDO\Exception\Data\UnknowClassException;
+use YannDenis\YDO\Exception\Data\UnknowTypeException;
 
 /**
  * @author Yann DENIS <denis.yann@gmail.com>

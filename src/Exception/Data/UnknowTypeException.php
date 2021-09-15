@@ -1,8 +1,8 @@
 <?php
 
-namespace Yann\YDO\Exception\Data;
+namespace YannDenis\YDO\Exception\Data;
 
-use Yann\YDO\Exception\YDOException;
+use YannDenis\YDO\Exception\YDOException;
 
 /**
  * @author Yann DENIS <denis.yann@gmail.com>

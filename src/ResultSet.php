@@ -1,6 +1,6 @@
 <?php
 
-namespace Yann\YDO;
+namespace YannDenis\YDO;
 
 /**
  * @author Yann DENIS <denis.yann@gmail.com>
@@ -8,7 +8,7 @@ namespace Yann\YDO;
 class ResultSet implements \Iterator, \Countable
 {
     /**
-     * @var \PDO
+     * @var YDO
      */
     private $_oYDO;
 
